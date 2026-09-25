@@ -6,3 +6,4 @@ scikit-learn
 firebase-admin
 google-cloud-firestore
 jupyter
+joblib
